@@ -14,6 +14,7 @@ This is a Web based Application developed using PHP as a Host Language. Database
 ![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/e746df23-efc4-4933-aaf8-09ad1cda17e9)
 
 > - Booking Confirmation
+
 ![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/9b349c8e-df6b-425f-a1b2-9baa1cbe3fbf)
 
 > - FAQ Page
