@@ -5,19 +5,17 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 ### Screenshots:
 > - Landing Page
-<img src="/Screenshots/index.jpg" width="800" height="450" alt="landing_page"/>
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/79afe2a1-3038-425c-a3a1-a4db0462dfe4)
 
 > - Available Cars
-<img src="/Screenshots/available_cars.png" width="800" height="450" alt="available_cars"/>
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/9b7fc210-995e-49a7-9577-8cc3523d6930)
 
-> - Add Cars
-<img src="/Screenshots/add_car.png" width="800" height="700" alt="add_car"/>
+> - Rent a Car
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/e746df23-efc4-4933-aaf8-09ad1cda17e9)
 
 > - Booking Confirmation
-<img src="/Screenshots/booking_confirmation.png" width="800" height="800" alt="booking_confirm"/>
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/9b349c8e-df6b-425f-a1b2-9baa1cbe3fbf)
 
-> - Return Car
-<img src="/Screenshots/return_car.png" width="800" height="450" alt="return_car"/>
+> - FAQ Page
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/081d3bbe-b91c-453e-9ee2-e1377db76473)
 
-> - Booking Summary
-<img src="/Screenshots/bookings.png" width="800" height="450" alt="booking_summary"/>
