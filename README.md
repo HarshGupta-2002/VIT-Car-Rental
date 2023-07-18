@@ -10,4 +10,12 @@ makes the bookings easy. It saves time and labor. The tool shall ask the user fo
 such as the date and time of journey, type of car etc. Also, it will need an identification
 number. Using these details, the tool shall help the customer to book a car for the journey.
 
-![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/d033e2f3-1480-4967-8ba3-ec8c8a7b95a3)
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/31eb23a5-005a-4478-82d2-3dc7f3ce7843)
+
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/61736309-50de-467c-b48c-cda0abf61dbb)
+
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/0d05d2a8-1949-4bdd-ae79-af2134ab3d39)
+
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/13f26931-02f0-4657-ab13-d08d2c171614)
+
+![image](https://github.com/HarshGupta-2002/VIT-Car-Rental/assets/81915099/af63fc04-355f-4c93-a752-a6373ce5e135)
